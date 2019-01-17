@@ -1,2 +1,3 @@
-# exemplo-mule-3-api-com-https
-Exemplo de api com http listner usando https
+# Exemplo de API Mulesoft recebendo requisições via HTTPS
+
+
